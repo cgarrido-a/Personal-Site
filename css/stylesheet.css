@@ -7,3 +7,18 @@ body{
     margin: 0;
     padding: 0;
 }
+
+#profile-pic{
+    width: 70%;
+    padding: 10px;
+    margin: 30px;
+}
+
+hr{
+    border-top: dotted 10px #ccc;
+    width: 10%;
+}
+
+h1, h3{
+    color: #1C658C;
+}
